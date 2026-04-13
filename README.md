@@ -35,5 +35,5 @@ I specialize in building high-performance web applications using **Next.js** and
 
 ### 🤝 Let's Connect
 - 💼 [LinkedIn](https://linkedin.com/in/ahmad-bakran-80735b226)
-- 🌐 [Portfolio](https://ahmadbakran.me) (Coming Soon)
+- 🌐 [Portfolio](https://ahmadbakran.online) 
 - 📧 Reach out for collaborations on Web or Mobile projects!
